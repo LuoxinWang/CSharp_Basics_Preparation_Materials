@@ -1,0 +1,7 @@
+F:\WorkSpace\C#Workspace\CSharpTeach\Part5\bin\Debug\Part5.exe.config
+F:\WorkSpace\C#Workspace\CSharpTeach\Part5\bin\Debug\Part5.exe
+F:\WorkSpace\C#Workspace\CSharpTeach\Part5\bin\Debug\Part5.pdb
+F:\WorkSpace\C#Workspace\CSharpTeach\Part5\obj\Debug\Part5.csprojAssemblyReference.cache
+F:\WorkSpace\C#Workspace\CSharpTeach\Part5\obj\Debug\Part5.csproj.CoreCompileInputs.cache
+F:\WorkSpace\C#Workspace\CSharpTeach\Part5\obj\Debug\Part5.exe
+F:\WorkSpace\C#Workspace\CSharpTeach\Part5\obj\Debug\Part5.pdb
