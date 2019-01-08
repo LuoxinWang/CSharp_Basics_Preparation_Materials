@@ -1,0 +1,7 @@
+F:\WorkSpace\C#Workspace\CSharpTeach\Part9\obj\Debug\Part9.csprojAssemblyReference.cache
+F:\WorkSpace\C#Workspace\CSharpTeach\Part9\obj\Debug\Part9.csproj.CoreCompileInputs.cache
+F:\WorkSpace\C#Workspace\CSharpTeach\Part9\bin\Debug\Part9.exe.config
+F:\WorkSpace\C#Workspace\CSharpTeach\Part9\bin\Debug\Part9.exe
+F:\WorkSpace\C#Workspace\CSharpTeach\Part9\bin\Debug\Part9.pdb
+F:\WorkSpace\C#Workspace\CSharpTeach\Part9\obj\Debug\Part9.exe
+F:\WorkSpace\C#Workspace\CSharpTeach\Part9\obj\Debug\Part9.pdb
